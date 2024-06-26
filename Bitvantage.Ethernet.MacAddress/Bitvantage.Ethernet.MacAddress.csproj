@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<AssemblyName>$(MSBuildProjectName)</AssemblyName>
+		<RootNamespace>Bitvantage.Ethernet</RootNamespace>
+		<Title>Bitvantage.Ethernet.MacAddress</Title>
+		<PackageProjectUrl>https://github.com/Bitvantage/Ethernet.MacAddress</PackageProjectUrl>
+		<PackageIcon>icon.png</PackageIcon>
+		<RepositoryType>git</RepositoryType>
+		<PackageTags>network;mac address;ethernet;mac</PackageTags>
+		<VersionPrefix>1.0.0</VersionPrefix>
+		<FileVersion>1.0.0</FileVersion>
+		<AssemblyVersion>1.0.0</AssemblyVersion>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<PackageLicenseExpression>AGPL-3.0-only</PackageLicenseExpression>
+		<Description>Parse, decode, and format MAC addresses in various formats</Description>
+
+	</PropertyGroup>
+
+</Project>

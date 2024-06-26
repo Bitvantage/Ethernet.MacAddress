@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bitvantage.Ethernet.MacAddress", "Bitvantage.Ethernet.MacAddress\Bitvantage.Ethernet.MacAddress.csproj", "{D3090F4F-7FC3-4E5F-8EC3-C50B048E86C4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{71347428-13B1-4916-B7AD-6BE30C78C078}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{17244341-C358-40B9-8F41-ACE61D3CD9CF}"
+	ProjectSection(SolutionItems) = preProject
+		Bitvantage.Ethernet.MacAddress.sln.licenseheader = Bitvantage.Ethernet.MacAddress.sln.licenseheader
+		CODE_OF_CONDUCT.md = CODE_OF_CONDUCT.md
+		LICENSE.md = LICENSE.md
+		README.md = README.md
+		TODO.md = TODO.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3090F4F-7FC3-4E5F-8EC3-C50B048E86C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3090F4F-7FC3-4E5F-8EC3-C50B048E86C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3090F4F-7FC3-4E5F-8EC3-C50B048E86C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3090F4F-7FC3-4E5F-8EC3-C50B048E86C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71347428-13B1-4916-B7AD-6BE30C78C078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71347428-13B1-4916-B7AD-6BE30C78C078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71347428-13B1-4916-B7AD-6BE30C78C078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71347428-13B1-4916-B7AD-6BE30C78C078}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7160373F-E3BF-4599-98A3-768B06A73981}
+	EndGlobalSection
+EndGlobal
