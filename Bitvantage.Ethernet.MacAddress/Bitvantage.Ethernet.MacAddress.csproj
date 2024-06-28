@@ -17,7 +17,14 @@
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<PackageLicenseExpression>AGPL-3.0-only</PackageLicenseExpression>
 		<Description>Parse, decode, and format MAC addresses in various formats</Description>
+		<RepositoryUrl>https://github.com/Bitvantage/Ethernet.MacAddress.git</RepositoryUrl>
+		<Copyright>Copyright © Michael Crino 2024</Copyright>
 
 	</PropertyGroup>
+
+	<ItemGroup>
+		<None Include="../README.md" Pack="true" PackagePath="" />
+		<None Include="../icon.png" Pack="true" PackagePath="" />
+	</ItemGroup>
 
 </Project>
